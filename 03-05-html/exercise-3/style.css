@@ -1,0 +1,12 @@
+/* Shiny CSS File */
+h2 {
+  font-family: 'Helvetica';
+  color: white;
+  background-color: #333;
+  padding: 1em 0;
+  text-align: center;
+}
+
+#my_plot {
+  border: 1px solid black;
+}

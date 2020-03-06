@@ -1,0 +1,33 @@
+h1 {
+  font-family: 'Helvetica';
+  color: white;
+  background-color: #333;
+  padding: 1em 0;
+  text-align: center;
+}
+
+p {
+  color: #333;
+}
+
+img {
+  max-width: 300px;
+  border-radius: 50%;
+  border: 1px solid #333;
+}
+
+.highlighted {
+  background-color: yellow;
+}
+
+#link {
+  background-color: lightgray;
+}
+
+/* li.highlighted /* <li class="highlighted"> */
+/* li .highlighted /* <li> <?? class="highlighted"> */
+
+/* List items in NUMBERED lists (not bulleted lists) */
+ol li {
+  font-size: 1.5em;
+}
